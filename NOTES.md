@@ -13,7 +13,7 @@
        KML files, GeoJSON, etc.
 
 - By default QGIS does On-The-Fly transformations - see the button in
-  the bottom left to change that. But each layer still has its own CRS
+  the bottom right to change that. But each layer still has its own CRS
   (coordinate reference system). If you're saving to a Shapefile, you
   can choose what CRS it will use.
 
